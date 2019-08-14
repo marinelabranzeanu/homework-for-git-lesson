@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Git for fun for fun for fun</title>
+<title>Git for fun</title>
 
 </head>
 <body>
 
-<h1 > For FUn teritory wonderland
+<h1 > For FUn teritory wonder
  !</h1>
 <div align="justify"; style = "padding-left: 200px; padding-right: 200px; font-weight: bold">
 <i>
