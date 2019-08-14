@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Git for fun</title>
+<title>Git for fun for fun for fun</title>
 
 </head>
 <body>
